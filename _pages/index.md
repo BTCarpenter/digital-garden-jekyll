@@ -19,6 +19,8 @@ My name is Beau and I don't know what to say! 🤓
 
 ## ✅ Tasks
 
+*Please be patient, I'm still building! 😌*
+
 - 🟥 Update new writing section to show publish date
 - 🟥 Update Footer
 - 🟥 Write About Page
