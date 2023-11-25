@@ -25,6 +25,7 @@ My name is Beau and I don't know what to say! 🤓
 - 🟥 Update Footer
 - 🟥 Write About Page
 - 🟥 Write Now Page
+- 🟥 Import posts from hey world
 
 ## 📝 Pages
 
