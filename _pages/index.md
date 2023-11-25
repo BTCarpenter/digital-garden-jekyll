@@ -21,7 +21,7 @@ My name is Beau and I don't know what to say! 🤓
 
 *Please be patient, I'm still building! 😌*
 
-- 🟥 Update new writing section to show publish date
+- ✅ Update new writing section to show publish date
 - 🟥 Update Footer
 - 🟥 Write About Page
 - 🟥 Write Now Page
@@ -37,13 +37,13 @@ My name is Beau and I don't know what to say! 🤓
   </li>
   {% endfor %}
 </ul>
-## ✨ New Writing!
+## ✨ New Writing
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+  {% assign recent_notes = site.notes | sort: "date" | reverse %}
   {% for note in recent_notes limit: 5 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
