@@ -3,19 +3,38 @@ layout: page
 title: Home
 id: home
 permalink: /
+nav: false
 ---
 
-# Welcome! 🌱
+# 👋 Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+My name is Beau and I don't know what to say! 🤓
 </p>
+- [Vision Baptist Church](https://www.visionbaptist.com)
+- [Unsplash](https://unsplash.com/btcarpenter)
+- [Facebook](https://www.facebook.com/beautcarpenter/)
+- [Twitter](https://twitter.com/btcarpenter)
+- [Email Me](mailto:beaucarpenter@hey.com)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## ✅ Tasks
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- 🟥 Update new writing section to show publish date
+- 🟥 Update Footer
+- 🟥 Write About Page
+- 🟥 Write Now Page
 
-<strong>Recently updated notes</strong>
+## 📝 Pages
+
+<ul>
+  {% assign navigation = site.pages | where: "nav", true %}
+  {% for page in navigation %}
+  <li>
+    <a class="internal-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+## ✨ New Writing!
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
