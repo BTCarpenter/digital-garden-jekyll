@@ -5,6 +5,8 @@ permalink: /about
 nav: true
 ---
 
-*This is an about page.*
+![Beau Carpenter Portrait](assets/beau_headshot.jpg){:#half}
 
-Feel free to tell the world about what you love! 😍
+- Serving in local-church ministry since 2013
+- Married Lauryn in 2015
+- Raising four little ones
