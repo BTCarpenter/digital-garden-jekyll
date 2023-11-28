@@ -40,13 +40,13 @@ I'm Beau, and you've arrived at my website. Take a look around, read a <a href="
 
 ## ✅ Tasks
 
-*Please be patient, I'm still building! 😌*
+*Please be patient, I'm still building!* 😌
 
 - ✅ Update new writing section to show publish date
 - ✅ Update Footer
 - ✅ Draft About Page
 - 🟥 Write Now Page
-- 🟥 Import posts from hey world
+- ✅ Import posts from hey world
 
 <style>
   .wrapper {

@@ -5,8 +5,8 @@ permalink: /about
 nav: true
 ---
 
-![Beau Carpenter Portrait](assets/beau_headshot.jpg){:#half}
+![Beau Carpenter Portrait](assets/beau_headshot.jpg){:#sm}
 
-- Serving in local-church ministry since 2013
 - Married Lauryn in 2015
 - Raising four little ones
+- Serving in local-church ministry since 2013
