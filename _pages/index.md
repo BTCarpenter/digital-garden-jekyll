@@ -30,10 +30,10 @@ I'm Beau, and you've arrived at my website. Take a look around, read a <a href="
 ## ✨ Latest Writing
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 5 %}
+  {% assign recent_posts = site.posts | sort: "date" | reverse %}
+  {% for post in recent_posts limit: 5 %}
     <li>
-      {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ post.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
