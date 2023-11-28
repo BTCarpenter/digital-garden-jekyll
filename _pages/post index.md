@@ -7,10 +7,10 @@ nav: true
 # ✨ All Writing
 
 <ul>
-  {% assign all_posts = site.posts | sort: "date" | reverse %}
-  {% for post in all_posts %}
+  {% assign all_notes = site.notes | sort: "date" | reverse %}
+  {% for note in all_notes %}
     <li>
-      {{ post.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
