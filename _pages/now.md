@@ -4,10 +4,11 @@ title: Now
 permalink: /now
 nav: true
 ---
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now.
+</p>
+
 *Updated November 27th, 2023*
-
-*This is a now page.* It's a snapshot of what's going on in my life right now.
-
 ### Administrative Pastor
 
 Serving as the Administrative Pastor at [Vision Baptist Church](https://visionbaptist.com). We've just finished up planning for 2023! It's been a good 9 months getting settled into life and ministry here in Alpharetta/Cumming.
