@@ -6,11 +6,13 @@ title: Obsidian iA Writer Quick Capture Setup
 - In one click using an iOS shortcut, I'm ready to input text
 - iA Writer does not require creation of a title through this method
 - Notes are saved directly to my note inbox for processing later
+
 ### Requirements
 
 - An Obsidian Vault setup in iCloud Drive
 - iA Writer installed on iPhone
 - Shortcut to create new note in inbox folder
+
 ### Steps
 
 After installing iA Writer, add the your inbox folder from iCloud as a location in the iA Writer Library.
