@@ -1,7 +1,7 @@
 ---
 title: Obsidian iA Writer Quick Capture Setup
 ---
-### Benefits of Using iA Writer for Obsidian Quick Capture
+### Benefits of Using iA Writer for [[Obsidian]] Quick Capture
 
 - In one click using an iOS shortcut, I'm ready to input text
 - iA Writer does not require creation of a title through this method
