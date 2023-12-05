@@ -1,6 +1,7 @@
 ---
-title: Obsidian iA Writer Quick Capture Setup
+title: Quick Capture Setup for Obsidian on iPhone Using iA Writer and Apple Shortcuts
 ---
+
 ### Benefits of Using iA Writer for Obsidian Quick Capture
 
 - In one click using an iOS shortcut, I'm ready to input text
