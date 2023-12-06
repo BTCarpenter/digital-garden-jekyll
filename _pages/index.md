@@ -50,6 +50,7 @@ I must confess, my email newsletter is highly irregular. However, when I do post
 
 - 🟥 Update About Page
 - 🟥 Update Footer
+- ✅ Add email subscribe to post as partial
 - ✅ Update Post listing to include publish date
 - ✅ Add email subscribe to homepage
 - ✅ Update new writing section to show publish date
