@@ -40,7 +40,7 @@ I'm Beau, and you've arrived at my website. Take a look around, read a <a href="
 
 ## 📬 Email Newsletter
 
-I must confess, my email newsletter is highly irregular. However, when I do post something new, I'll be sure to send you a quick email and there may be other tidbits that come your way as well. Not a great value proposition, but it's accurate!
+I'm fascinated by local church ministry, the Christian life, writing, media, and note-taking. When I post something new, I'll be sure to send you a quick email. Often, I include related links and other tidbits.
 
 {% include subscribe.html %}
 
@@ -50,6 +50,8 @@ I must confess, my email newsletter is highly irregular. However, when I do post
 
 - 🟥 Update About Page
 - 🟥 Update Footer
+- 🟥 Rename Repository
+- ✅ Add colophon to about page
 - ✅ Add email subscribe to post as partial
 - ✅ Update Post listing to include publish date
 - ✅ Add email subscribe to homepage
