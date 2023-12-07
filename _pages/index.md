@@ -3,7 +3,7 @@ layout: page
 title: Home
 id: home
 permalink: /
-nav: false
+nav: true
 ---
 
 # 👋 Hey!
