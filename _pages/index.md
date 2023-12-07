@@ -3,7 +3,7 @@ layout: page
 title: Home
 id: home
 permalink: /
-nav: true
+nav: false
 ---
 
 # 👋 Hey!
@@ -50,7 +50,7 @@ I'm fascinated by local church ministry, the Christian life, writing, media, and
 
 - 🟥 Update About Page
 - 🟥 Update Footer
-- 🟥 Rename Repository
+- ✅ Rename Repository
 - ✅ Add colophon to about page
 - ✅ Add email subscribe to post as partial
 - ✅ Update Post listing to include publish date
