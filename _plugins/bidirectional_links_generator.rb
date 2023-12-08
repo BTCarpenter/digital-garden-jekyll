@@ -28,7 +28,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         end
 
         new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
-        anchor_tag = "<a class='internal-link' href='#{new_href}'>\\1</a>"
+        anchor_tag = "<a class='underline-none' href='#{new_href}'>\\1</a>"
 
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]

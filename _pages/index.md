@@ -4,18 +4,37 @@ title: Home
 id: home
 permalink: /
 nav: false
+links:
+  -
+    title: Vision Baptist Church
+    url: https://www.visionbaptist.com
+  - 
+    title: Unsplash
+    url: https://unsplash.com/btcarpenter
+  - 
+    title: Facebook
+    url: https://www.facebook.com/beautcarpenter/
+  - 
+    title: Twitter/X
+    url: https://twitter.com/btcarpenter
+  - 
+    title: Email Me
+    url: mailto:beaucarpenter@hey.com
 ---
 
 # 👋 Hey!
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 10px;">
+<p style="">
 I'm Beau, and you've arrived at my website. Take a look around, read a <a href="/posts" class="internal-link">post</a>, or find me other places online 👇
 </p>
-- [Vision Baptist Church](https://www.visionbaptist.com)
-- [Unsplash](https://unsplash.com/btcarpenter)
-- [Facebook](https://www.facebook.com/beautcarpenter/)
-- [Twitter](https://twitter.com/btcarpenter)
-- [Email Me](mailto:beaucarpenter@hey.com)
+
+<ul>
+{% assign links = page.links %}
+{% for link in links %}
+  <li><a class="after:content-['_↗'] marker:" href='{{ link.url }}'>{{ link.title }}</a>
+  </li>
+{% endfor %}
+</ul>
 
 ## 📝 Pages
 
