@@ -69,8 +69,9 @@ I'm fascinated by local church ministry, the Christian life, writing, media, and
 
 - 🟥 Update About Page
 - 🟥 Update Footer
-- 🟥 Dark Mode
 - 🟥 Write Uses Page
+- ✅ Re-write styles in Tailwindcss
+- ✅ Dark Mode
 - ✅ Rename Repository
 - ✅ Add colophon to about page
 - ✅ Add email subscribe to post as partial
