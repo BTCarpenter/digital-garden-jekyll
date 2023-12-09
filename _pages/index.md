@@ -24,14 +24,14 @@ links:
 
 # 👋 Hey!
 
-<p style="">
-I'm Beau, and you've arrived at my website. Take a look around, read a <a href="/posts" class="internal-link">post</a>, or find me other places online 👇
+<p class="bg-indigo-50 dark:bg-slate-900 bg-opacity-70 -mt-4 py-12 px-5 rounded-xl">
+I'm Beau, and you've arrived at my website. Take a look around, read a <a class="" href="/posts">post</a>, or find me other places online 👇
 </p>
 
 <ul>
 {% assign links = page.links %}
 {% for link in links %}
-  <li><a class="after:content-['_↗'] marker:" href='{{ link.url }}'>{{ link.title }}</a>
+  <li><a class="after:content-['_↗'] " href='{{ link.url }}'>{{ link.title }}</a>
   </li>
 {% endfor %}
 </ul>
@@ -42,7 +42,7 @@ I'm Beau, and you've arrived at my website. Take a look around, read a <a href="
   {% assign navigation = site.pages | where: "nav", true %}
   {% for page in navigation %}
   <li>
-    <a class="internal-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
 </ul>

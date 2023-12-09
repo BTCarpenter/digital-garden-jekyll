@@ -5,7 +5,7 @@ permalink: /about
 nav: true
 ---
 
-![Beau Carpenter Portrait](assets/beau_headshot.jpg){:#sm}
+![Beau Carpenter Portrait](assets/beau_headshot.jpg){:.max-w-xs}
 ## About Beau
 - Married Lauryn in 2015
 - Raising four little ones

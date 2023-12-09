@@ -1,10 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body class="container mx-auto dark:bg-slate-700">
-    <nav>{% include nav.html %}</nav>
-    <div class="wrapper">
-      <main class="prose prose-li:leading-snug prose-slate dark:prose-invert">{{ content }}</main>
+  <body class="container mx-auto px-8 dark:bg-slate-800">
+    <div class="max-w-2xl mx-auto">
+      {% include nav.html %}
+      <main class="prose prose-li:leading-snug  
+      prose-h2:mt-5 
+      dark:prose-invert prose-a:font-normal
+      prose-li:list-inside 
+      prose-li:marker:text-black
+      prose-li:dark:marker:text-slate-200
+      prose-a:no-underline 
+      prose-a:border-b 
+      prose-a:border-indigo-300 
+      prose-a:bg-indigo-100
+      hover:prose-a:bg-yellow-200
+      prose-a:dark:bg-slate-700
+      hover:prose-a:dark:bg-slate-800
+      prose-a:transition-colors
+      prose-a:bg-opacity-50 
+      prose-a:px-0.5">{{ content }}</main>
       <footer class="my-12">{% include footer.html %}</footer>
     </div>
 
