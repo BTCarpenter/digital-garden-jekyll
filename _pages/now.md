@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 nav: true
 ---
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p class="bg-indigo-50 dark:bg-slate-900 bg-opacity-70 -mt-4 py-12 px-5 rounded-xl">
 This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now.
 </p>
 
