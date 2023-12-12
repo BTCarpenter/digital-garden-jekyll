@@ -13,6 +13,8 @@ nav: true
 
 ## Colphon
 
-BeauCarpenter.net is built with [Jekyll](https://jekyllrb.com/) using the wonderful [digital garden jekyll  template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The code is stored on [Github](https://github.com/BTCarpenter/digital-garden-jekyll) and hosted with [Netlify](https://www.netlify.com/). My domain is held through [Name Cheap](https://www.namecheap.com/).
+BeauCarpenter.net is built with [Jekyll](https://jekyllrb.com/) using the wonderful [digital garden jekyll  template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) as a starting point. I've rewritten the styling with [TailwindCSS](https://tailwindcss.com/). 
 
-I write articles in [Obsidian](https://obsidian.md) and edit the code in [Visual Studio Code](https://code.visualstudio.com/)
+The code is stored on [Github](https://github.com/BTCarpenter/digital-garden-jekyll) and hosted with [Netlify](https://www.netlify.com/). My domain is held through [Name Cheap](https://www.namecheap.com/).
+
+I write articles in [Obsidian](https://obsidian.md) and edit the code in [Visual Studio Code](https://code.visualstudio.com/).

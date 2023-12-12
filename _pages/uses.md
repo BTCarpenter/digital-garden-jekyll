@@ -1,9 +1,10 @@
 ---
 title: Uses
 nav: true
+layout: page
 ---
 
-Here are the tools that I use
+Here are the tools that I use on a regular basis. 
 
 ## Computer & Software
 

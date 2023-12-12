@@ -70,7 +70,8 @@ I'm fascinated by local church ministry, the Christian life, writing, media, and
 - 🟥 Update About Page
 - 🟥 Update Footer
 - 🟥 Write Uses Page
-- ✅ Re-write styles in Tailwindcss
+- 🟥 Re-write link-previews.html in TailwindCSS
+- ✅ Re-write styles in TailwindCSS
 - ✅ Dark Mode
 - ✅ Rename Repository
 - ✅ Add colophon to about page
