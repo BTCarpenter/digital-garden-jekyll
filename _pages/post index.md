@@ -4,7 +4,6 @@ title: 'All Posts'
 permalink: /posts
 nav: true
 ---
-# ✨ All Writing
 
 <ul>
   {% assign all_notes = site.notes | sort: "date" | reverse %}
