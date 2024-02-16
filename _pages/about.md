@@ -11,7 +11,7 @@ nav: true
 - Raising four little ones
 - Serving in local-church ministry since 2013
 
-## Colphon
+## Colophon
 
 BeauCarpenter.net is built with [Jekyll](https://jekyllrb.com/) using the wonderful [digital garden jekyll  template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) as a starting point. I've rewritten the styling with [TailwindCSS](https://tailwindcss.com/). 
 
