@@ -1,7 +1,7 @@
 ---
 title: Develop a Scripture Motto
 ---
-> Finally, my brethren, **be strong** *in the Lord*, and in the power *of his might.* - [[Ephes 6#10|Ephes 6:10]]
+> Finally, my brethren, **be strong** *in the Lord*, and in the power *of his might.* - Ephesians 6:10
 
 Every once in a while, you develop a motto. A statement of truth often forged in a time of difficulty. You can adopt others' sayings, but why not make your own?
 
