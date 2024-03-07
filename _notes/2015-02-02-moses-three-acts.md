@@ -9,7 +9,7 @@ Right now you are in training, you are preparing, you are in the first stages of
 
 Take hope, you are not alone. There were many men now and in the past that had the same thought (At times I have had the same attitude). You must know that before God builds the ministry, He builds the man.
 
-![[/assets/mosesheader.png]]
+![](assets/mosesheader.png)
 
 ### Act 1 – Egypt
 
