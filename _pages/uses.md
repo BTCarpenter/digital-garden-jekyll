@@ -4,7 +4,7 @@ nav: true
 layout: page
 ---
 
-Here are the tools that I use on a regular basis. 
+Here are the tools that I rely on for my work.
 
 ## Computer Setup
 
@@ -15,18 +15,18 @@ Here are the tools that I use on a regular basis.
 ## Software
 
 - [Obsidian](https://obsidian.md) - for notes, study, task-management, and writing
-- Visual Studio Code - for building this website
 - [Arc Browser](https://arc.net/)
-- Davinci Resolve - for video editing
-- Affinity Suite - for graphic design (Designer, Photo, Publisher)
-- Darktable - for photo editing
-- Dropbox - for document backup
+- [Affinity Suite](https://affinity.serif.com/en-us/) - for graphic design (Designer, Photo, Publisher)
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - for video editing
+- [Darktable](https://www.darktable.org/) - for photo editing
+- [Visual Studio Code](https://code.visualstudio.com/) - for web design
 
 ## Web services
 
-- Hey - For Email
+- [Dropbox](https://www.dropbox.com/home) - for document backup
+- [Hey](https://www.hey.com/) - For Email
 - Google Calendar
-- Basecamp - for project management
+- [Basecamp](https://basecamp.com/) - for project management
 
 ## Camera Gear
 
