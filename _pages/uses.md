@@ -2,8 +2,8 @@
 title: Uses
 nav: true
 layout: page
+permalink: /uses
 ---
-
 Here are the tools that I rely on for my work.
 
 ## Computer Setup
