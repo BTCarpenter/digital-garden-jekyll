@@ -1,7 +1,8 @@
 ---
+title: 5 Lessons Learned in ATL Church Planting [Part 1 of 2]
 ---
 
-![[Title.png]]
+![](/assets/Title.png)
 
 ### Rejoice in the Lord
 
