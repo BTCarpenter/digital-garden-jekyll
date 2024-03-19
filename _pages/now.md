@@ -5,7 +5,7 @@ permalink: /now
 nav: true
 ---
 <p class="bg-indigo-50 dark:bg-slate-900 bg-opacity-70 -mt-4 py-12 px-5 rounded-xl">
-This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now.
+This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now. Check out this page on <a href="https://nownownow.com/p/kZlB">nownownow.com</a> by <a href="https://sive.rs/">Derek Sivers</a>
 </p>
 
 *Updated November 27th, 2023*
