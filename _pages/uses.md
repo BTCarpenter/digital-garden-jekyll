@@ -8,7 +8,8 @@ Here are the tools that I rely on for my work.
 
 ## Computer Setup
 
-- M1 Macbook Air 2020
+- M1 Macbook Air 2020 (Jan 2021)
+- iPhone 11 (Oct 2020)
 - ZSA Moonlander Split Keyboard
 - Asus ProArt monitor
 
