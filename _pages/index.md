@@ -68,9 +68,9 @@ I'm fascinated by local church ministry, the Christian life, writing, media, and
 *Please be patient, I'm still building!* 😌
 
 - 🟥 Update About Page
-- 🟥 Update Footer
-- 🟥 Write Uses Page
 - 🟥 Re-write link-previews.html in TailwindCSS
+- ✅ Update Footer
+- ✅ Write Uses Page
 - ✅ Re-write styles in TailwindCSS
 - ✅ Dark Mode
 - ✅ Rename Repository
