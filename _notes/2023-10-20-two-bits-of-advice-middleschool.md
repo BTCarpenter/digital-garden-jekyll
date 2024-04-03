@@ -5,7 +5,7 @@ Last week, I had the privilege to speak with the middle school LifeGroup at Visi
 
 The final question on the list really got me thinking, "What advice would you give to a middle school student?" Here's what came to mind:
 
-Don't get in a hurry, walk with God today
+### Don't get in a hurry, walk with God today
 
 I remember being younger and always in a hurry to arrive at the next stage in life. I was in a hurry to grow up, get my license, get a job, finish school—the list goes on.
 
@@ -17,7 +17,7 @@ For middle schoolers (and people of other ages too), it's best to seek and love 
 
 Following God today prepares you to follow him tomorrow.
 
-Enroll in the process of learning
+### Enroll in the process of learning
 
 All of life requires learning.
 
