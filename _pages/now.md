@@ -8,16 +8,15 @@ nav: true
 This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now. Check out this page on <a href="https://nownownow.com/p/kZlB">nownownow.com</a> by <a href="https://sive.rs/">Derek Sivers</a>
 </p>
 
-*Updated November 27th, 2023*
-### Administrative Pastor
+*Updated May 5th, 2024*
+### Standing on the Rock Sermon Series
 
-Serving as the Administrative Pastor at [Vision Baptist Church](https://visionbaptist.com). We've just finished up planning for 2023! It's been a good 9 months getting settled into life and ministry here in Alpharetta/Cumming.
+We're about half-way through a series on what it is to be "strong in the Lord." This series means so much to me personally as it's an attempt at verbalizing some of the study I've been doing in the background for a few months now.
 
-### Nerding out on [Obsidian](https://obsidian.md/)
+The messages are available on [Sermon Audio](https://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=visionbaptist&keyword=Standing+on+the+Rock&keyworddesc=Standing+on+the+Rock)
 
-I'm fascinated with taking notes and managing tasks in Obsidian. It's a note-taking tool that is based around a few core ideas:
-- All notes are stored in plain-text, your data isn't locked up in one tool.
-- Note linking is built into the core of Obsidian.
-- Functionality can be extended by plugins, [of which there are many](https://obsidian.md/plugins).
-This is the only note-taking tool where I find myself naturally resurfacing older, useful information.
+### Camping Season us upon us!
 
+We went on our first camping trip of the season a few weeks ago, Thaddeus & I plus a few friends camped at [River Forks campground](https://www.hallcounty.org/Facilities/Facility/Details/River-Forks-Park-11). Weather was spectacular and the s'mores were gooey, what more can you ask for?
+
+Next trip is to [Vogel State Park](https://gastateparks.org/Vogel), one of our all time favorites!
