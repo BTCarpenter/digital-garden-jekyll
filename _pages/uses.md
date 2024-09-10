@@ -33,7 +33,6 @@ Here are the tools that I rely on for my work.
 - Fujifilm X-T3 & X-T4
 - Fujifilm 16-55mm
 - Fujifilm 50-140mm
-- Rokinon 12mm
 - Fujifilm 23mm
 - Fujifilm 35mm
 - Fujifilm 56mm
